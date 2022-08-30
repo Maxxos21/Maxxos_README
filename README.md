@@ -8,7 +8,7 @@ Highly proficient Game Developer bringing proven history of successfully utilizi
 
 * 🌍  I'm based in Seattle, Washington
 * ✉️  You can contact me at [letsconnect@maxlabsinc.com](mailto:letsconnect@maxlabsinc.com)
-* 🚀  I'm currently working on [Card Trading Game](http://https://www.maxlabsinc.com/work)
+* 🚀  I'm currently working on [Card Trading Game](http://www.maxlabsinc.com/work)
 * 🧠  I'm learning Unreal Engine, C++, AR/VR
 
 ### Skills
